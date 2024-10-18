@@ -19,10 +19,16 @@ I decided to follow the roadmap of [neetcode](https://neetcode.io/roadmap) . It 
 
 For the notes and images : My [Notion](notion.com)
 ## Day 2 : 16 October , 2024
-I learned Basic Arrays and Hashing . So I tried to solve These  qeustion:
+I learned Basic Arrays and Hashing . So I tried to solve These  question:
 - [217. Contains Duplicate](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/217.%20Contains%20Duplicate)
 - [242. Valid Anagram](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/242.%20Valid%20Anagram)
 ## Day 3 : 17 October , 2024
-Another day I tried some basic qustions of arrays and hashing. Solved these qustion:-
+Another day I tried some basic qustions of arrays and hashing. Solved these question:-
 - [1929. Concatenation of Arrays](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1929.%20Concatenation%20of%20Arrays)
 - [1299. Replace Elements with Greatest Element on Right Side](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
+
+## Day 4 : 18 October , 2024
+I learned Hash Collision from [Youtube](https://www.youtube.com/watch?v=OxBEypvXl9s&ab_channel=CollegeWallah) 
+
+I tried to solved my first medium question:
+- [49. Group Anagrams](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/49.%20Group%20Anagrams)
