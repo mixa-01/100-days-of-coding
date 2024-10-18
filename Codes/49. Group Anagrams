@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        map <string , vector<string>> anag;
+
+        for(auto s : strs){
+            string stri = s;
+            sort(s.begin(),s.end());
+            anag[s].push_back(stri);
+        }
+        vector <vector<string>> results;
+        for(auto i :anag){
+            results.push_back(i.second);
+        }
+        return results;
+    }
+};
