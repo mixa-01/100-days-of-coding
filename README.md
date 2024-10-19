@@ -32,3 +32,7 @@ I learned Hash Collision from [Youtube](https://www.youtube.com/watch?v=OxBEypvX
 
 I tried to solved my first medium question:
 - [49. Group Anagrams](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/49.%20Group%20Anagrams)
+## Day 4 : 19 October , 2024
+Today I solved some problems from Codeforces.
+- [158A. Next Round](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/158A.%20Next%20Round)
+- [136A. Presents](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/cp%20136A.%20Presents)
