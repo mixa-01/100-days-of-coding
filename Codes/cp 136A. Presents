@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+#define ll long long
+using namespace std;
+
+int main(){
+ios_base::sync_with_stdio(false); 
+cin.tie(NULL);  
+ll n;
+cin>>n;
+int gifts[n+1];
+for(ll i=1;i<=n;i++){
+    int x;
+    cin>>x;
+    gifts[x]=i;
+}
+
+for(ll i=1;i<=n;i++){
+    cout<<gifts[i]<<" ";
+}
+
+
+return 0;
+}  
+  
