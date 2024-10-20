@@ -1,0 +1,16 @@
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int , int> hash;
+        int numSize= nums.size();
+        for( int i =0 ; i <numSize ;i ++){
+            int wantedNum = target - nums[i];     
+
+            if(hash.find(wantedNum)!=hash.end()){
+               return {hash[wantedNum],i};
+            }
+
+            hash[nums[i]]=i;
+        }
+        return {};
+    }
