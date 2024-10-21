@@ -39,3 +39,5 @@ Today I solved some problems from Codeforces.
  ## Day 6 : 20 October , 2024
 Today I solved the most easiest problems from Leetcode.
 - [1. Two Sum](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1.%20Two%20Sum)
+ ## Day 7 : 21 October , 2024
+ [Hashmap STL](https://www.youtube.com/watch?v=pBvlSc2A2U4&t=1464s&ab_channel=CollegeWallah)
