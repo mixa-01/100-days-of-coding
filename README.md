@@ -41,4 +41,5 @@ Today I solved the most easiest problems from Leetcode.
 - [1. Two Sum](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1.%20Two%20Sum)
  ## Day 7 : 21 October , 2024
  [Hashmap STL](https://www.youtube.com/watch?v=pBvlSc2A2U4&t=1464s&ab_channel=CollegeWallah)
- -[128. Longest Consecutive Sequence](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/128.%20Longest%20Consecutive%20Sequence)
+ - [128. Longest Consecutive Sequence](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/128.%20Longest%20Consecutive%20Sequence)
+ - [238. Product of Array Except Self](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/238.%20Product%20of%20Array%20Except%20Self)
