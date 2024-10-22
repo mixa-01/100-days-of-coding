@@ -44,3 +44,8 @@ Today I solved the most easiest problems from Leetcode.
  - [128. Longest Consecutive Sequence](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/128.%20Longest%20Consecutive%20Sequence)
  - [238. Product of Array Except Self](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/238.%20Product%20of%20Array%20Except%20Self)
  - [560. Subarray Sum Equals K](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/560.%20Subarray%20Sum%20Equals%20K)
+## Day 8 : 22 October , 2024
+I tried to solve some question from "Leetcode" and also done some from "Codeforces":
+- [202. Happy Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/202.%20Happy%20Number)
+- [1832. Check if the Sentence Is Pangram](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
+- [258. Add Digits](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/258.%20Add%20Digits)
