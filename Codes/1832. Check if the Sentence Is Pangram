@@ -1,0 +1,13 @@
+class Solution {
+public:
+    bool checkIfPangram(string sentence) {
+        unordered_set<int> hashset;
+
+        for(char c : sentence){
+            if(c>='a' && c<='z'){
+                hashset.insert(c);
+            }
+        }
+        return hashset.size()==26;
+    }
+};
