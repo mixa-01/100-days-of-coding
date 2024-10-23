@@ -49,3 +49,10 @@ I tried to solve some question from "Leetcode" and also done some from "Codeforc
 - [202. Happy Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/202.%20Happy%20Number)
 - [1832. Check if the Sentence Is Pangram](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
 - [258. Add Digits](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/258.%20Add%20Digits)
+## Day 9 : 23 October , 2024
+Today I learned "Two Pointers" and done some relative problems.
+- [905. Sort Array By Parity](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/905.%20Sort%20Array%20By%20Parity)
+- [633. Sum of Square Numbers](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/633.%20Sum%20of%20Square%20Numbers)
+- [167. Two Sum II - Input Array Is Sorted](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
+- [922. Sort Array By Parity II](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/922.%20Sort%20Array%20By%20Parity%20II)
+  
