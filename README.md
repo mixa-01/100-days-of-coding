@@ -3,15 +3,10 @@
 I commited my self to do the #100daysofcodechallange to learn **DSA** and become a **Redcoder in Competitive Programming** .
 I have 4 goals in my mind:
 1. Learning Data Structures and Algorithms (theoretical and coding part)
-
 2. Become a Redcoder in Competitive Programming. (codeforces and codechef)
-
 3. Solving Leetcode questions and giving regular contests. (more than 150 questions)
-
 4. Making Projects with HTML, CSS ,JS.
-
 So, I made an public commitment in [x/twitter](https://x.com/MirzaMehedi1971) and [Linkedin](https://www.linkedin.com/in/mirza-mehedi-hasan-a37a16263/). That I will continue my journey with you.
-
 ## Day 1 : 15 October , 2024
 I decided to follow the roadmap of [neetcode](https://neetcode.io/roadmap) . It is the perfect roadmap to learn Dsa. I started with the topic **Arrays and Hashing** . I learned basic Hashing from the sources:
 1. [GfG](https://www.geeksforgeeks.org/hashing-data-structure/)
@@ -56,3 +51,8 @@ Today I learned "Two Pointers" and done some relative problems.
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
 - [922. Sort Array By Parity II](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/922.%20Sort%20Array%20By%20Parity%20II)
   
+## Day 10 : 24 October , 2024
+Today I solved some question related to " Two some " .
+- [15. 3Sum](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/15.%203Sum)
+- [11. Container With Most Water](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/11.%20Container%20With%20Most%20Water)
+- [125. Valid Palindrome](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/125.%20Valid%20Palindrome)
