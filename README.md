@@ -56,3 +56,8 @@ Today I solved some question related to " Two some " .
 - [15. 3Sum](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/15.%203Sum)
 - [11. Container With Most Water](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/11.%20Container%20With%20Most%20Water)
 - [125. Valid Palindrome](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/125.%20Valid%20Palindrome)
+## Day 11 : 25 October , 2024
+Today I solved some question related to "Sliding Windows" .
+- [121. Best Time to Buy and Sell Stock](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+- [3. Longest Substring Without Repeating Characters](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+- [643. Maximum Average Subarray I](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/643.%20Maximum%20Average%20Subarray%20I)
