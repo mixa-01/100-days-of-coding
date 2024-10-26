@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int divisorSubstrings(int num, int k) {
+        int ans = 0;
+
+        long long mod= pow(10,k);
+
+        int temp = num;
+        while(temp>=mod/10){
+            int n =(temp%mod);
+            if(n != 0 && num % n == 0){
+                ans++;
+            }
+            temp/=10;
+        }
+
+        return ans;
+    }
+};
