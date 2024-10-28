@@ -68,3 +68,6 @@ Today I solved some question related to "Sliding Windows"
 Today I solved some question related to "Sliding Windows"
 - [424. Longest Repeating Character Replacement](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/424.%20Longest%20Repeating%20Character%20Replacement)
 ## Day 14 : 28 October , 2024
+I tried to solve some question from "Leetcode"
+- [412. Fizz Buzz](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/412.%20Fizz%20Buzz)
+- [771. Jewels and Stones](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/771.%20Jewels%20and%20Stones)
