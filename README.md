@@ -62,5 +62,9 @@ Today I solved some question related to "Sliding Windows" .
 - [3. Longest Substring Without Repeating Characters](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - [643. Maximum Average Subarray I](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/643.%20Maximum%20Average%20Subarray%20I)
 ## Day 12 : 26 October , 2024
+Today I solved some question related to "Sliding Windows"
+- [2269. Find the K-Beauty of a Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2269.%20Find%20the%20K-Beauty%20of%20a%20Number)
 ## Day 13 : 27 October , 2024
+Today I solved some question related to "Sliding Windows"
+- [424. Longest Repeating Character Replacement](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/424.%20Longest%20Repeating%20Character%20Replacement)
 ## Day 14 : 28 October , 2024
