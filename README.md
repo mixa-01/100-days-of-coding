@@ -73,5 +73,5 @@ I tried to solve some question from "Leetcode"
 - [771. Jewels and Stones](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/771.%20Jewels%20and%20Stones)
 ## Day 15 : 29 October , 2024
 I tried to solve some question from "Leetcode"
-- [2974. Minimum Number Game]
-- [2652. Sum Multiples]
+- [2974. Minimum Number Game](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2974.%20Minimum%20Number%20Game)
+- [2652. Sum Multiples](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2652.%20Sum%20Multiples)
