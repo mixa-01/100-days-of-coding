@@ -71,3 +71,7 @@ Today I solved some question related to "Sliding Windows"
 I tried to solve some question from "Leetcode"
 - [412. Fizz Buzz](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/412.%20Fizz%20Buzz)
 - [771. Jewels and Stones](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/771.%20Jewels%20and%20Stones)
+## Day 15 : 29 October , 2024
+I tried to solve some question from "Leetcode"
+- [2974. Minimum Number Game]
+- [2652. Sum Multiples]
