@@ -75,3 +75,7 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [2974. Minimum Number Game](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2974.%20Minimum%20Number%20Game)
 - [2652. Sum Multiples](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2652.%20Sum%20Multiples)
+## Day 16 : 30 October , 2024
+I tried to solve some question from "Leetcode"
+- [567. Permutation in String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/567.%20Permutation%20in%20String)
+
