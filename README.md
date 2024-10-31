@@ -82,3 +82,6 @@ I tried to solve some question from "Leetcode"
 Today I solved some question related to "Stack"
 - [20. Valid Parentheses](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/20.%20Valid%20Parentheses)
 - [150. Evaluate Reverse Polish Notation](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/150.%20Evaluate%20Reverse%20Polish%20Notation)
+## Day 18 : 1 November , 2024
+Today I learned "Binary Search" and done some relative problems.
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
