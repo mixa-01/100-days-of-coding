@@ -78,4 +78,6 @@ I tried to solve some question from "Leetcode"
 ## Day 16 : 30 October , 2024
 I tried to solve some question from "Leetcode"
 - [567. Permutation in String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/567.%20Permutation%20in%20String)
-
+## Day 17 : 31 October , 2024
+Today I solved some question related to "Stack"
+- [20. Valid Parentheses](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/20.%20Valid%20Parentheses)
