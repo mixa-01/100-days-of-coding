@@ -81,3 +81,4 @@ I tried to solve some question from "Leetcode"
 ## Day 17 : 31 October , 2024
 Today I solved some question related to "Stack"
 - [20. Valid Parentheses](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/20.%20Valid%20Parentheses)
+- [150. Evaluate Reverse Polish Notation](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/150.%20Evaluate%20Reverse%20Polish%20Notation)
