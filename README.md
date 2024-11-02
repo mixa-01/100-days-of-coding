@@ -85,3 +85,6 @@ Today I solved some question related to "Stack"
 ## Day 18 : 1 November , 2024
 Today I learned "Binary Search" and done some relative problems.
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+## Day 19 : 2 November , 2024
+Today I learned "Binary Search" and done some relative problems.
+- [33. Search in Rotated Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/33.%20Search%20in%20Rotated%20Sorted%20Array)
