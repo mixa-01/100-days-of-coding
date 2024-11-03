@@ -88,3 +88,6 @@ Today I learned "Binary Search" and done some relative problems.
 ## Day 19 : 2 November , 2024
 Today I learned "Binary Search" and done some relative problems.
 - [33. Search in Rotated Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/33.%20Search%20in%20Rotated%20Sorted%20Array)
+## Day 20 : 3 November , 2024
+Today I learned "Binary Search" and done some relative problems.
+- [704. Binary Search](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/704.%20Binary%20Search)
