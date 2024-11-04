@@ -93,3 +93,8 @@ Today I learned "Binary Search" and done some relative problems.
 - [704. Binary Search](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/704.%20Binary%20Search)
 - [1672. Richest Customer Wealth](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1672.%20Richest%20Customer%20Wealth)
 - [2894. Divisible and Non-divisible Sums Difference](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference)
+## Day 21 : 4 November , 2024
+I tried to solve some question from "Leetcode"
+- [3024. Type of Triangle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3024.%Type%of%Triangle)
+- [3019. Number of Changing Keys](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3019.%20Number%20of%20Changing%20Keys)
+- [2114. Maximum Number of Words Found in Sentences](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences)
