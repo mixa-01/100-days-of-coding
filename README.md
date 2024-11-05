@@ -98,3 +98,7 @@ I tried to solve some question from "Leetcode"
 - [3024. Type of Triangle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3024.%Type%of%Triangle)
 - [3019. Number of Changing Keys](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3019.%20Number%20of%20Changing%20Keys)
 - [2114. Maximum Number of Words Found in Sentences](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences)
+## Day 22 : 5 November , 2024
+I tried to solve some question from "Leetcode"
+- [136. Single Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/136.%20Single%20Number)
+- [349. Intersection of Two Arrays](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/349.%20Intersection%20of%20Two%20Arrays)
