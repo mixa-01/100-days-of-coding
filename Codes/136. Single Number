@@ -1,16 +1,15 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         map<int , int> mp;
         for(const auto& i : nums){
             mp[i]++;
         }
         for(const auto& i : mp){
-            if(i=1){
-                return i;
+            if(i.second==1){
+                return i.first;
             }
         }
-        return {};
+        return -1;
     }
 };
