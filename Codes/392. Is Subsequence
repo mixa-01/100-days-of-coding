@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool isSubsequence(string subsequence, string sequence) {
+        int subIndex = 0;  // Pointer for the `subsequence` string
+        int seqIndex = 0;  // Pointer for the `sequence` string
+        
+        // Iterate through `sequence` while there are characters left to match in `subsequence`
+        while (seqIndex < sequence.size() && subIndex < subsequence.size()) {
+            // If characters match, move the pointer in `subsequence` forward
+            if (subsequence[subIndex] == sequence[seqIndex]) {
+                subIndex++;
+            }
+            // Always move the pointer in `sequence` forward
+            seqIndex++;
+        }
+        
+        // If we've matched all characters in `subsequence`, `subIndex` should equal its length
+        return subIndex == subsequence.size();
+    }
+};
