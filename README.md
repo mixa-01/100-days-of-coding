@@ -111,5 +111,7 @@ I tried to solve some question from "Leetcode"
 - [344. Reverse String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/344.%20Reverse%20String)
 - [88. Merge Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/88.%20Merge%20Sorted%20Array)
 - [26. Remove Duplicates from Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
-
-
+## Day 25 : 8 November , 2024
+I tried to solve some question from "Leetcode"
+- [387. First Unique Character in a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/387.%20First%20Unique%20Character%20in%20a%20String)
+- [2520. Count the Digits That Divide a Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)
