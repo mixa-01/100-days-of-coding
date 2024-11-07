@@ -106,7 +106,7 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [392. Is Subsequence](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/392.%20Is%20Subsequence)
 - [1189. Maximum Number of Balloons](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1189.%20Maximum%20Number%20of%20Balloons)
-## Day 23 : 6 November , 2024
+## Day 24 : 7 November , 2024
 I tried to solve some question from "Leetcode"
 - [344. Reverse String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/344.%20Reverse%20String)
 - [88. Merge Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/88.%20Merge%20Sorted%20Array)
