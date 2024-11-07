@@ -115,3 +115,7 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [387. First Unique Character in a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/387.%20First%20Unique%20Character%20in%20a%20String)
 - [2520. Count the Digits That Divide a Number](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)
+- ## Day 26 : 9 November , 2024
+I tried to solve some question from "Leetcode"
+- [390. Elimination Game](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/390.%20Elimination%20Game)
+- [389. Find the Difference](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/389.%20Find%20the%20Difference)
