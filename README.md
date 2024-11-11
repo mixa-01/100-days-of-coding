@@ -123,3 +123,11 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [169. Majority Element](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/169.%20Majority%20Element)
 - [605. Can Place Flowers](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/605.%20Can%20Place%20Flowers)
+## Day 28 : 11 November , 2024
+I tried to solve some question from "Leetcode"
+- [1512. Number of Good Pairs](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1512.%20Number%20of%20Good%20Pairs)
+- [75. Sort Colors](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/75.%20Sort%20Colors)
+## Day 29 : 12 November , 2024
+I tried to solve some question from "Leetcode"
+- [1913. Maximum Product Difference Between Two Pairs](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
+- [2264. Largest 3-Same-Digit Number in String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2264.%20Largest%203-Same-Digit%20Number%20in%20String)
