@@ -131,3 +131,8 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [1913. Maximum Product Difference Between Two Pairs](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
 - [2264. Largest 3-Same-Digit Number in String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2264.%20Largest%203-Same-Digit%20Number%20in%20String)
+## Day 30 : 13 November , 2024
+I tried to solve some question from "Leetcode"
+- [35. Search Insert Position](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/35.%20Search%20Insert%20Position)
+- [69. Sqrt(x)](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/69.%20Sqrt(x))
+- [441. Arranging Coins](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/441.%20Arranging%20Coins)
