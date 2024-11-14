@@ -136,3 +136,8 @@ I tried to solve some question from "Leetcode"
 - [35. Search Insert Position](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/35.%20Search%20Insert%20Position)
 - [69. Sqrt(x)](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/69.%20Sqrt(x))
 - [441. Arranging Coins](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/441.%20Arranging%20Coins)
+## Day 31 : 14 November , 2024
+I tried to solve some question from "Leetcode"
+- [283. Move Zeroes](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/283.%20Move%20Zeroes)
+- [844. Backspace String Compare](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/844.%20Backspace%20String%20Compare)
+
