@@ -140,4 +140,9 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [283. Move Zeroes](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/283.%20Move%20Zeroes)
 - [844. Backspace String Compare](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/844.%20Backspace%20String%20Compare)
+## Day 32 : 15 November , 2024
+I tried to solve some question from "Leetcode"
+- [83. Remove Duplicates from Sorted List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/83.%20Remove%20Duplicates%20from%20Sorted%20List)
+## Day 33 : 16 November , 2024
+I tried to solve some question from "Leetcode"
 
