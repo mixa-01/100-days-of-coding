@@ -145,4 +145,5 @@ I tried to solve some question from "Leetcode"
 - [83. Remove Duplicates from Sorted List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/83.%20Remove%20Duplicates%20from%20Sorted%20List)
 ## Day 33 : 16 November , 2024
 I tried to solve some question from "Leetcode"
-
+- [206. Reverse Linked List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/206.%20Reverse%20Linked%20List)
+- [19. Remove Nth Node From End of List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
