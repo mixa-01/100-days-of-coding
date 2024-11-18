@@ -151,3 +151,7 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [876. Middle of the Linked List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/876.%20Middle%20of%20the%20Linked%20List)
 - [2487. Remove Nodes From Linked List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2487.%20Remove%20Nodes%20From%20Linked%20List)
+- ## Day 35 : 18 November , 2024
+I tried to solve some question from "Leetcode"
+- [143. Reorder List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/143.%20Reorder%20List)
+- [141. Linked List Cycle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/141.%20Linked%20List%20Cycle)
