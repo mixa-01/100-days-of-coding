@@ -151,7 +151,11 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [876. Middle of the Linked List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/876.%20Middle%20of%20the%20Linked%20List)
 - [2487. Remove Nodes From Linked List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2487.%20Remove%20Nodes%20From%20Linked%20List)
-- ## Day 35 : 18 November , 2024
+## Day 35 : 18 November , 2024
 I tried to solve some question from "Leetcode"
 - [143. Reorder List](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/143.%20Reorder%20List)
 - [141. Linked List Cycle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/141.%20Linked%20List%20Cycle)
+## Day 36 : 19 November , 2024
+I tried to solve some question from "Leetcode"
+- [203. Remove Linked List Elements](https://github.com/mixa-01/100-days-of-coding/blob/949c27f9299cedd5be0edaff589168175d4e1bc5/Codes/203.%20Remove%20Linked%20List%20Elements)
+- [21. Merge Two Sorted Lists](https://github.com/mixa-01/100-days-of-coding/blob/bf2f6c8f98314ab39499d211fa1b5057562dc651/Codes/21.%20Merge%20Two%20Sorted%20Lists)
