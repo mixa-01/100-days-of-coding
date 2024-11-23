@@ -159,3 +159,16 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [203. Remove Linked List Elements](https://github.com/mixa-01/100-days-of-coding/blob/949c27f9299cedd5be0edaff589168175d4e1bc5/Codes/203.%20Remove%20Linked%20List%20Elements)
 - [21. Merge Two Sorted Lists](https://github.com/mixa-01/100-days-of-coding/blob/bf2f6c8f98314ab39499d211fa1b5057562dc651/Codes/21.%20Merge%20Two%20Sorted%20Lists)
+## Day 37 : 20 November , 2024
+I tried to solve some question from "Leetcode"
+- [2. Add Two Numbers]()
+- [61. Rotate List]()
+## Day 38 : 21 November , 2024
+I tried to solve some question from "Leetcode"
+- [148. Sort List]()
+## Day 39 : 22 November , 2024
+I have done 75 problems in leetcode.
+## Day 40 : 23 November , 2024
+I tried to solve some question from "Leetcode"
+- [162. Find Peak Element](https://github.com/mixa-01/100-days-of-coding/blob/f9f525bb838f316419b58cb94541a02898e2258a/Codes/162.%20Find%20Peak%20Element)
+- [34. Find First and Last Position of Element in Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/b16540548380f34a8f6362144e3a92911bb7b0dc/Codes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
