@@ -172,3 +172,7 @@ I have done 75 problems in leetcode.
 I tried to solve some question from "Leetcode"
 - [162. Find Peak Element](https://github.com/mixa-01/100-days-of-coding/blob/f9f525bb838f316419b58cb94541a02898e2258a/Codes/162.%20Find%20Peak%20Element)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/b16540548380f34a8f6362144e3a92911bb7b0dc/Codes/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
+## Day 41 : 24 November , 2024
+I tried to solve some question from "Leetcode"
+- [448. Find All Numbers Disappeared in an Array](https://github.com/mixa-01/100-days-of-coding/blob/a3b73eebc548953d715955eb1d165c253507a889/Codes/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
+- [724. Find Pivot Index](https://github.com/mixa-01/100-days-of-coding/blob/b5ce006d8013e48273ea7d9de3a6c38da0c961e7/Codes/724.%20Find%20Pivot%20Index)
