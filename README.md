@@ -176,3 +176,7 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [448. Find All Numbers Disappeared in an Array](https://github.com/mixa-01/100-days-of-coding/blob/a3b73eebc548953d715955eb1d165c253507a889/Codes/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [724. Find Pivot Index](https://github.com/mixa-01/100-days-of-coding/blob/b5ce006d8013e48273ea7d9de3a6c38da0c961e7/Codes/724.%20Find%20Pivot%20Index)
+## Day 42 : 25 November , 2024
+I tried to solve some question from "Leetcode"
+- [27. Remove Element](https://github.com/mixa-01/100-days-of-coding/blob/924e3588811b09074f4390e6548b6ac383e011ce/Codes/27.%20Remove%20Element)
+- [58. Length of Last Word](https://github.com/mixa-01/100-days-of-coding/blob/c641ef0afb3aaed85901f632a8d82a1a415ecc90/Codes/58.%20Length%20of%20Last%20Word)
