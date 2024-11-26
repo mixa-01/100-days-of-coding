@@ -180,3 +180,8 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [27. Remove Element](https://github.com/mixa-01/100-days-of-coding/blob/924e3588811b09074f4390e6548b6ac383e011ce/Codes/27.%20Remove%20Element)
 - [58. Length of Last Word](https://github.com/mixa-01/100-days-of-coding/blob/c641ef0afb3aaed85901f632a8d82a1a415ecc90/Codes/58.%20Length%20of%20Last%20Word)
+## Day 43 : 26 November , 2024
+Today I learned about "trees" and I tried to solve some question from "Leetcode"
+- [145. Binary Tree Postorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/5743e87f168481e52b36586c3b609b297a2f011b/Codes/145.%20Binary%20Tree%20Postorder%20Traversal)
+- [94. Binary Tree Inorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/0aaed10138845ac148200b39f6dfe1d9dc8baa40/Codes/94.%20Binary%20Tree%20Inorder%20Traversal)
+- [144. Binary Tree Preorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/dd5061765412ac92c41b766d885bbb6fd07a9933/Codes/144.%20Binary%20Tree%20Preorder%20Traversal)
