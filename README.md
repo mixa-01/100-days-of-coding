@@ -185,3 +185,8 @@ Today I learned about "trees" and I tried to solve some question from "Leetcode"
 - [145. Binary Tree Postorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/5743e87f168481e52b36586c3b609b297a2f011b/Codes/145.%20Binary%20Tree%20Postorder%20Traversal)
 - [94. Binary Tree Inorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/0aaed10138845ac148200b39f6dfe1d9dc8baa40/Codes/94.%20Binary%20Tree%20Inorder%20Traversal)
 - [144. Binary Tree Preorder Traversal](https://github.com/mixa-01/100-days-of-coding/blob/dd5061765412ac92c41b766d885bbb6fd07a9933/Codes/144.%20Binary%20Tree%20Preorder%20Traversal)
+## Day 44 : 27 November , 2024
+Today I learned about "trees" and I tried to solve some question from "Leetcode"
+- [100. Same Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/100.%20Same%20Tree)
+- [104. Maximum Depth of Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+- [226. Invert Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/226.%20Invert%20Binary%20Tree)
