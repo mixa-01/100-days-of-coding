@@ -190,3 +190,7 @@ Today I learned about "trees" and I tried to solve some question from "Leetcode"
 - [100. Same Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/100.%20Same%20Tree)
 - [104. Maximum Depth of Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [226. Invert Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/226.%20Invert%20Binary%20Tree)
+## Day 45 : 28 November , 2024
+Today I learned about "trees" and I tried to solve some question from "Leetcode"
+- [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
