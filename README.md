@@ -194,3 +194,7 @@ Today I learned about "trees" and I tried to solve some question from "Leetcode"
 Today I learned about "trees" and I tried to solve some question from "Leetcode"
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+## Day 46 : 29 November , 2024
+I tried to solve some question from "Leetcode"
+- [234. Palindrome Linked List](https://github.com/mixa-01/100-days-of-coding/blob/bee52b64e2a97703bc0195d73b93a3d84c5153c7/Codes/234.%20Palindrome%20Linked%20List)
+- [2130. Maximum Twin Sum of a Linked List](https://github.com/mixa-01/100-days-of-coding/blob/c8f357adccf927f0436ab757482c607b47e63cb0/Codes/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List)
