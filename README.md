@@ -198,3 +198,8 @@ Today I learned about "trees" and I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [234. Palindrome Linked List](https://github.com/mixa-01/100-days-of-coding/blob/bee52b64e2a97703bc0195d73b93a3d84c5153c7/Codes/234.%20Palindrome%20Linked%20List)
 - [2130. Maximum Twin Sum of a Linked List](https://github.com/mixa-01/100-days-of-coding/blob/c8f357adccf927f0436ab757482c607b47e63cb0/Codes/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List)
+## Day 47 : 30 November , 2024
+I tried to solve some question from "Leetcode"
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores)
+- [1768. Merge Strings Alternately](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1768.%20Merge%20Strings%20Alternately)
+
