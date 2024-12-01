@@ -202,4 +202,10 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores)
 - [1768. Merge Strings Alternately](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1768.%20Merge%20Strings%20Alternately)
+## Day 48 : 1 December , 2024
+I tried to solve some question from "Leetcode"
+- [374. Guess Number Higher or Lower](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/374.%20Guess%20Number%20Higher%20or%20Lower)
+- [540. Single Element in a Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/540.%20Single%20Element%20in%20a%20Sorted%20Array)
+
+
 
