@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int numRescueBoats(vector<int>& p, int limit) {
+        int l = 0;
+        int ans=0;
+        int r = p.size()-1;
+        sort(p.begin(),p.end());
+        while(l<=r){
+            if(p[l]+p[r]<=limit){
+                l++;
+            }
+            r--;
+            ans++;
+        }
+        return ans;
+    }
+};
