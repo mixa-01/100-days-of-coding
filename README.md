@@ -206,6 +206,11 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcode"
 - [374. Guess Number Higher or Lower](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/374.%20Guess%20Number%20Higher%20or%20Lower)
 - [540. Single Element in a Sorted Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/540.%20Single%20Element%20in%20a%20Sorted%20Array)
+## Day 49 : 2 December , 2024
+I tried to solve some question from "Leetcoode"
+- [881. Boats to Save People](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/881.%20Boats%20to%20Save%20People)
+- [189. Rotate Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/189.%20Rotate%20Array)
+
 
 
 
