@@ -210,7 +210,8 @@ I tried to solve some question from "Leetcode"
 I tried to solve some question from "Leetcoode"
 - [881. Boats to Save People](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/881.%20Boats%20to%20Save%20People)
 - [189. Rotate Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/189.%20Rotate%20Array)
-
-
-
+## Day 50 : 3 December , 2024
+I tried to solve some question from "Leetcoode"
+- [2798. Number of Employees Who Met the Target](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target)
+- [2108. Find First Palindromic String in the Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array)
 
