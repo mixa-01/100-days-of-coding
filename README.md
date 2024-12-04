@@ -214,4 +214,7 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [2798. Number of Employees Who Met the Target](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target)
 - [2108. Find First Palindromic String in the Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array)
-
+## Day 51 : 4 December , 2024
+I tried to solve some question from "Leetcoode"
+- [100. Same Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/100.%20Same%20Tree)
+- [104. Maximum Depth of Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/104.%20Maximum%20Depth%20of%20Binary%20Tree)
