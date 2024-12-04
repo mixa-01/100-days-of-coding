@@ -218,3 +218,6 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [100. Same Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/100.%20Same%20Tree)
 - [104. Maximum Depth of Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+## Day 52 : 5 December , 2024
+I tried to solve some question from "Leetcoode"
+- [226. Invert Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/226.%20Invert%20Binary%20Tree)
