@@ -222,3 +222,6 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [226. Invert Binary Tree](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/226.%20Invert%20Binary%20Tree)
 - [102. Binary Tree Level Order Traversal](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/102.%20Binary%20Tree%20Level%20Order%20Traversal)
+## Day 53 : 6 December , 2024
+I tried to solve some question from "Leetcoode"
+- [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/?envType=daily-question&envId=2024-12-06)
