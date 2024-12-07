@@ -228,3 +228,5 @@ I tried to solve some question from "Leetcoode"
 ## Day 54 : 7 December , 2024
 I tried to solve some question from "Leetcoode"
 - [3110. Score of a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3110.%20Score%20of%20a%20String)
+- [1108. Defanging an IP Address](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1108.%20Defanging%20an%20IP%20Address)
+
