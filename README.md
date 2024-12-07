@@ -225,3 +225,6 @@ I tried to solve some question from "Leetcoode"
 ## Day 53 : 6 December , 2024
 I tried to solve some question from "Leetcoode"
 - [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/?envType=daily-question&envId=2024-12-06)
+## Day 54 : 7 December , 2024
+I tried to solve some question from "Leetcoode"
+- [3110. Score of a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/3110.%20Score%20of%20a%20String)
