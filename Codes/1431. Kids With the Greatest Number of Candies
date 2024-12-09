@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+        // Result vector to store if each child can have the maximum candies
+        vector<bool> result;
+
+        // Find the maximum number of candies among all children
+        int maxCandies = *max_element(candies.begin(), candies.end());
+
+        // Iterate through the candies of each child
+        for (int i = 0; i < candies.size(); i++) {
+            // Add extra candies to the current child's candies
+            int newCandyCount = candies[i] + extraCandies;
+
+            // Check if this new count is greater than or equal to the maximum candies
+            result.push_back(newCandyCount >= maxCandies);
+        }
+
+        // Return the result vector
+        return result;
+    }
+};
