@@ -232,3 +232,9 @@ I tried to solve some question from "Leetcoode"
 ## Day 55 : 8 December , 2024
 I tried to solve some question from "Leetcoode"
 - [1486. XOR Operation in an Array](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1486.%20XOR%20Operation%20in%20an%20Array)
+## Day 56 : 9 December , 2024
+I tried to solve some question from "Leetcoode"
+- [1431. Kids With the Greatest Number of Candies](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
+- [345. Reverse Vowels of a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/345.%20Reverse%20Vowels%20of%20a%20String)
+
+
