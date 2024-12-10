@@ -236,5 +236,9 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [1431. Kids With the Greatest Number of Candies](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
 - [345. Reverse Vowels of a String](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/345.%20Reverse%20Vowels%20of%20a%20String)
+## Day 57 : 10 December , 2024
+I tried to solve some question from "Leetcoode"
+- [118. Pascal's Triangle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/118.%20Pascal's%20Triangle)
+- [66. Plus One](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/66.%20Plus%20One)
 
 
