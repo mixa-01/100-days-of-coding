@@ -240,5 +240,11 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [118. Pascal's Triangle](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/118.%20Pascal's%20Triangle)
 - [66. Plus One](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/66.%20Plus%20One)
+## Day 58 : 11 December , 2024
+I tried to solve some question from "Leetcoode"
+- [496. Next Greater Element I](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/496.%20Next%20Greater%20Element%20I)
+- [205. Isomorphic Strings](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/205.%20Isomorphic%20Strings)
+
+
 
 
