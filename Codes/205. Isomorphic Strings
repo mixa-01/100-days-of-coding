@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool isIsomorphic(string s, string t) {
+        int mS[256] = {0};
+        int mT[256] = {0};
+        int l = s.size();
+        for (int i = 0; i < l; ++i) {
+            char charS = s[i];
+            char charT = t[i]; 
+            if (mS[charS] != mT[charT]) {
+                return false;
+            }
+                mS[charS] = mT[charT] = i + 1;
+            
+        }
+        return true;
+    }
+};
