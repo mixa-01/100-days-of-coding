@@ -244,6 +244,13 @@ I tried to solve some question from "Leetcoode"
 I tried to solve some question from "Leetcoode"
 - [496. Next Greater Element I](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/496.%20Next%20Greater%20Element%20I)
 - [205. Isomorphic Strings](https://github.com/mixa-01/100-days-of-coding/blob/main/Codes/205.%20Isomorphic%20Strings)
+## Day 59 : 12 December , 2024
+I tried to solve some question from "Leetcoode"
+## Day 60 : 13 December , 2024
+I tried to solve some question from "Leetcoode"
+- [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+- [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/)
+
 
 
 
